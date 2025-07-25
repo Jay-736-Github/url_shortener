@@ -1,0 +1,1 @@
+## This file can be empty, its just to simply mark the app directory as a package
